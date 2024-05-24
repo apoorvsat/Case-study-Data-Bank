@@ -1,4 +1,4 @@
-# <p align="center" style="margin-top: 0px;"> 💰 Case Study - Data Bank 💰
+# <p align="center" style="margin-top: 0px;"> 🏦 Case Study - Data Bank 💰
 
 <p align="center" style="margin-bottom: 0px !important;">
 
