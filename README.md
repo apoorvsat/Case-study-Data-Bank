@@ -4,7 +4,6 @@
 
 ![case study 4 image](case%20study%204.png)
 
----
 *This repository contains the answers to the Week 4 challenge of the 8 Weeks SQL Challenge created by DannyMa. To access the complete challenge, please visit this [link](https://8weeksqlchallenge.com/case-study-4/).*
 
 ---
