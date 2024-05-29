@@ -88,7 +88,7 @@ customer_id | txn_date | txn_type | txn_amount
 ## Case Study Solutions
 - [Part A - Customer Nodes Exploration](https://github.com/apoorvsat/case-study-data-bank/blob/main/1.%20Customer%20Nodes%20Exploration.md)
 - [Part B - Customer Transactions](https://github.com/apoorvsat/case-study-data-bank/blob/main/2.%20Customer%20Transactions.md)
-- [Part C -Data Allocation Challenge](https://github.com/apoorvsat/case-study-data-bank/blob/main/2.%20Customer%20Transactions.md)
+- [Part C -Data Allocation Challenge](https://github.com/apoorvsat/case-study-data-bank/blob/main/3.%20Data%20Allocation%20and%20Challenge.md)
    
    
  ---
